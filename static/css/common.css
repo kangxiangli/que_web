@@ -1,0 +1,210 @@
+	* {
+		list-style-type: none;
+	}
+
+	html,
+	body {
+		font-family: "Microsoft YaHei", 微软雅黑, "MicrosoftJhengHei", 华文细黑, STHeiti, MingLiu;
+		width: 100%;
+		height: 100%;
+		padding: 0;
+		margin: 0;
+		overflow-x: hidden;
+	}
+
+	a {
+		color: #2fa0ec;
+		text-decoration: none;
+		outline: none;
+	}
+
+	a:hover,
+	a:focus {
+		color: #74777b;
+	}
+
+	li {
+		list-style-type: none;
+	}
+
+	li,
+	ul {
+		padding: 0;
+		margin: 0;
+	}
+
+	::-webkit-scrollbar {
+		 width: 2px;
+		height: 5px;
+	}
+
+	::-webkit-scrollbar-track-piece {
+		background-color: rgba(0, 0, 0, 0.2);
+		-webkit-border-radius: 6px;
+	}
+
+	::-webkit-scrollbar-thumb:vertical {
+		height: 5px;
+		background-color: rgba(125, 125, 125, 0.7);
+		-webkit-border-radius: 6px;
+	}
+
+	::-webkit-scrollbar-thumb:horizontal {
+		width: 5px;
+		background-color: rgba(125, 125, 125, 0.7);
+		-webkit-border-radius: 6px;
+	}
+	/*公共内容宽*/
+
+	.card_center {
+		width: 73%;
+		margin: 0 auto;
+	}
+	/*上传*/
+
+	.avatar-uploader .el-upload {
+		border: 2px dashed #d9d9d9;
+		/*border-radius: 6px;*/
+		cursor: pointer;
+		position: relative;
+		/*overflow: hidden;*/
+	}
+
+	.avatar-uploader .el-upload:hover {
+		border-color: #20a0ff;
+	}
+
+	.avatar-uploader-icon {
+		font-size: 28px;
+		color: #8c939d;
+		width: 178px;
+		height: 178px;
+		line-height: 178px;
+		text-align: center;
+	}
+
+	.avatar {
+		width: 178px;
+		height: 178px;
+		display: block;
+	}
+	/*上传*/
+
+	.peoplePage,
+	.proofPage {
+		width: 100%;
+		height: auto;
+		margin-top: 100px;
+		position: relative;
+	}
+
+	.el-row {
+		/*margin-bottom: 20px;*/
+	}
+
+	.grid-content {
+		min-height: 36px;
+	}
+
+	.row-bg {
+		padding: 10px 0;
+	}
+	/*弹框*/
+
+	/*.dialog_content .box .box-body {*/
+		/*height: 295px !important;*/
+		/*overflow-x: hidden;*/
+		/*overflow-y: scroll;*/
+	/*}*/
+
+	.el-collapse-item__header {
+		background-color: #dbdbdb !important;
+	}
+
+	.el-tabs--border-card>.el-tabs__header .el-tabs__item.is-active,
+	.el-tabs__item.is-active {
+		color: #42A5F6 !important;
+	}
+
+	.primary {
+		background: #52a9ef;
+		color: #FFFFFF;
+	}
+	/**上传upload样式u**/
+
+	.my_upload_demo>.el-upload,
+	.my_upload_demo>.el-upload .el-upload-dragger {
+		width: 100% !important;
+		background-color: rgba(0, 0, 0, 0.1);
+		border-color: #666;
+		height:100px;
+	}
+	.el-icon-upload{
+		line-height: 20px!important;
+	}
+	.el-upload-dragger .el-icon-upload {
+		color: #6b727c !important;
+	}
+	/**上传结束*****/
+
+	.distpicker-address-wrapper {
+		display: flex;
+	}
+
+	.el-table tr {
+		background: none !important;
+	}
+
+	.el-table tr:nth-child(0),
+	.el-table__header-wrapper {
+		background-color: #dbdbdb !important;
+	}
+
+	tr.header_row {
+		background-color: #dbdbdb !important;
+	}
+
+	.el-table .info-row {
+		background: #c9e5f5 !important;
+	}
+	/*table 内容过多显示...*/
+
+	.el-table .cell {
+		white-space: nowrap !important;
+		/*text-align: center;*/
+	}
+	/*显示过多显示..*/
+
+	.colSpan {
+		width: 300px;
+		/* border: 1px solid red; */
+		overflow: hidden;
+		text-overflow: ellipsis;
+		white-space: nowrap;
+	}
+	/*步骤样式*/
+
+	.el-step__head.is-success,
+	.el-step__title.is-success {
+		color: #42A5F6;
+		border-color: #42A5F6;
+	}
+
+	.myInfo {
+		position: absolute;
+		left: -24px;
+		bottom: 13px;
+	}
+	.peoplePage .el-tabs__nav{
+		width: 100%;
+	}
+.peoplePage .el-tabs__item{
+	width: 14.5%;
+	text-align: center;
+}
+.el-icon-close-tip{
+	display: none !important;
+}
+.el-dialog__body {
+	padding: 6px 20px !important;
+}

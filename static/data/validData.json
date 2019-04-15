@@ -1,0 +1,109 @@
+{
+    "validList": {
+        "content": [
+            {
+                "fid": "297ec901625159480162516941440018",
+                "fdepNo": "1",
+                "fstatus": "1",
+                "ftime": "2018-03-23 13:51:15",
+                "fdataHash": "7d80516e8c879fcde9657f222e96801b7fa0b8afb0a132e8ec763072e09a0114",
+                "fmemberId": "1",
+                "ftitle": "test123",
+                "fsize": "2.62KB",
+                "ftype": "1",
+                "fformat": "png",
+                "fendTime": null,
+                "frollNum": "10",
+                "famount": null,
+                "fisEnable": "1",
+                "version": 1
+            },
+            {
+                "fid": "297ec901625159480162516772410011",
+                "fdepNo": "1",
+                "fstatus": "1",
+                "ftime": "2018-03-23 13:49:13",
+                "fdataHash": "9b1368a79deedcfdcc06f25feba5653cac7541ae0cfae1b40ff9f346a0db7d49",
+                "fmemberId": "1",
+                "ftitle": "123",
+                "fsize": "2.62KB",
+                "ftype": "1",
+                "fformat": "png",
+                "fendTime": null,
+                "frollNum": "10",
+                "famount": null,
+                "fisEnable": "1",
+                "version": 1
+            }
+        ],
+        "last": true,
+        "totalPages": 1,
+        "totalElements": 2,
+        "number": 0,
+        "size": 10,
+        "sort": [
+            {
+                "direction": 1,
+                "property": "ftime",
+                "ignoreCase": false,
+                "nullHandling": 0,
+                "ascending": false,
+                "descending": true
+            }
+        ],
+        "first": true,
+        "numberOfElements": 2
+    },
+    "getValid": {
+        "fid": null,
+        "ftitle": "123",
+        "bid": null,
+        "sn": null,
+        "depNo": "1",
+        "type": null,
+        "token": null,
+        "lable": null,
+        "metas": [
+            {
+                "fid": null,
+                "name": "1",
+                "value": "11",
+                "seq": "0"
+            },
+            {
+                "fid": null,
+                "name": "2",
+                "value": "22",
+                "seq": "1"
+            }
+        ],
+        "files": [
+            {
+                "fid": "297ec9016251594801625166fbc10010",
+                "name": "download.png",
+                "data": null,
+                "path": "/CarLoad/system/20180323134846download.png",
+                "seq": "0",
+                "hash": null,
+                "filehash": null,
+                "fsize": null
+            },
+            {
+                "fid": "297ec9016251594801625166fbbd000f",
+                "name": "icon_cor.png",
+                "data": null,
+                "path": "/CarLoad/system/20180323134846icon_cor.png",
+                "seq": "1",
+                "hash": null,
+                "filehash": null,
+                "fsize": null
+            }
+        ],
+        "finger": null,
+        "quote": null,
+        "payStatus": null
+    }
+	 
+  
+  
+}

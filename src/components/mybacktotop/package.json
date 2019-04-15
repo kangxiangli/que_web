@@ -1,0 +1,11 @@
+{
+  "name": "backToTop",
+  "version": "1.0.0",
+  "description": "回到顶部",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "kk",
+  "license": "ISC"
+}

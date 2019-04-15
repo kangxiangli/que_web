@@ -1,0 +1,350 @@
+{
+  "tableData":{
+		"content": [
+			{
+				"fid": "",
+				"ftitle": "1",
+				"fdataHash": null,
+				"flable": "qwer",
+				"ftime": "2018-03-13 17:41:08"
+			},
+			{
+				"fid": null,
+				"ftitle": "1",
+				"fdataHash": null,
+				"flable": "asdf",
+				"ftime": "2018-03-13 17:41:46"
+			}
+		],
+		"totalPages": 0,
+		"totalElements": 2
+    },
+    "dataCertList":{
+        "totalPages": 0,
+        "totalElements": 1,
+        "content": [
+            {
+                "fid": "40288135622372d6016223791d520004",
+                "ftitle": "1",
+                "fdataHash": "34f5a4ba46186967549b4fdb4a2507e1e0c4880bd7276b8d4aebcd1432256a9b",
+                "flable": "1",
+                "ftime": "2018-03-14 15:46:02",
+                "fsize": "123",
+                "fformat": null,
+                "fcerType": null,
+                "fterm": null,
+                "fcertTime": null,
+                "fbeover": null
+            }
+        ]
+    },
+	"ownCertList":{
+		"totalPages": 0,
+        "totalElements": 4,
+        "content": [
+            {
+                "fid": "4028813562235e4101622366cbe40013",
+                "ftitle": "1",
+                "fdataHash": null,
+                "flable": null,
+                "ftime": null,
+                "fsize": "643",
+                "fformat": "file",
+                "fcerType": null,
+                "fterm": null,
+                "fcertTime": null
+            },
+            {
+                "fid": "4028813562235e4101622367efa50019",
+                "ftitle": "1",
+                "fdataHash": null,
+                "flable": "",
+                "ftime": null,
+                "fsize": "543",
+                "fformat": null,
+                "fcerType": null,
+                "fterm": null,
+                "fcertTime": null
+            },
+            {
+                "fid": "4028813562235e410162236871d6001d",
+                "ftitle": "1",
+                "fdataHash": null,
+                "flable": "1",
+                "ftime": null,
+                "fsize": "334",
+                "fformat": null,
+                "fcerType": null,
+                "fterm": null,
+                "fcertTime": null
+            },
+            {
+                "fid": "4028813562235e41016223697d200025",
+                "ftitle": "1",
+                "fdataHash": null,
+                "flable": "1",
+                "ftime": null,
+                "fsize": "321",
+                "fformat": null,
+                "fcerType": null,
+                "fterm": null,
+                "fcertTime": null
+            }
+        ]
+    },
+    "allTag":{
+        "all": [
+            {
+                "fid": "40288135621eba4501621ebc3d070004",
+                "flable": "qwer",
+                "fmemberId": "1",
+                "ftime": "2018-03-13 17:41:14",
+                "fisDel": "1"
+            },
+            {
+                "fid": "40288135621eba4501621ebcfe130007",
+                "flable": "asdf",
+                "fmemberId": "1",
+                "ftime": "2018-03-13 17:42:04",
+                "fisDel": "1"
+            },
+            {
+                "fid": "4028813562235e4101622366cbe70014",
+                "flable": null,
+                "fmemberId": "1",
+                "ftime": "2018-03-14 15:26:02",
+                "fisDel": "1"
+            },
+            {
+                "fid": "4028813562235e4101622367efa6001a",
+                "flable": "",
+                "fmemberId": "1",
+                "ftime": "2018-03-14 15:27:16",
+                "fisDel": "1"
+            },
+            {
+                "fid": "4028813562235e410162236871d6001e",
+                "flable": "1",
+                "fmemberId": "1",
+                "ftime": "2018-03-14 15:27:50",
+                "fisDel": "1"
+            },
+            {
+                "fid": "4028813562235e4101622369a14f0026",
+                "flable": "1",
+                "fmemberId": "1",
+                "ftime": "2018-03-14 15:29:04",
+                "fisDel": "1"
+            },
+            {
+                "fid": "40288135622372d6016223791d550005",
+                "flable": "1",
+                "fmemberId": "1",
+                "ftime": "2018-03-14 15:46:02",
+                "fisDel": "1"
+            }
+        ],
+        "sel": [
+            {
+                "fid": "40288135621eba4501621ebc3d070004",
+                "flable": "qwer",
+                "fmemberId": "1",
+                "ftime": "2018-03-13 17:41:14",
+                "fisDel": "1"
+            },
+            {
+                "fid": "40288135621eba4501621ebcfe130007",
+                "flable": "asdf",
+                "fmemberId": "1",
+                "ftime": "2018-03-13 17:42:04",
+                "fisDel": "1"
+            }
+        ]
+            
+    },
+    "fingerList":{
+        "totalPages": 0,
+        "totalElements": 1,
+        "content": [
+            {
+                "fid": "40288135621eba4501621ebcf6690006",
+                "ftitle": "1",
+                "fdataHash": "1",
+                "flable": "标签二",
+                "ftime": "2018-03-13 17:41:46",
+                "fsize": null,
+                "fformat": null,
+                "fcerType": null,
+                "fterm": null,
+                "fcertTime": null,
+                "fbeover": null
+            }
+        ]
+    },
+    "certMangerList": {
+        "totalPages": 0,
+        "totalElements": 8,
+        "content": [
+            {
+                "fid": "4028813562235e4101622366cbe40013",
+                "ftitle": "1",
+                "fdataHash": null,
+                "flable": "标签三",
+                "ftime": null,
+                "fsize": "643",
+                "fformat": "file",
+                "fcerType": "1",
+                "fterm": null,
+                "fcertTime": "2018-03-14",
+                "fbeover": null,
+                "fcerVersion": null,
+                "fstate": "2"
+            },
+            {
+                "fid": "4028813562235e4101622367efa50019",
+                "ftitle": "1",
+                "fdataHash": null,
+                "flable": "标签四",
+                "ftime": null,
+                "fsize": "543",
+                "fformat": "file",
+                "fcerType": "1",
+                "fterm": null,
+                "fcertTime": "2018-03-15",
+                "fbeover": null,
+                "fcerVersion": null,
+                "fstate": "2"
+            },
+            {
+                "fid": "4028813562235e410162236871d6001d",
+                "ftitle": "租赁合同",
+                "fdataHash": null,
+                "flable": "标签⑤",
+                "ftime": null,
+                "fsize": "334",
+                "fformat": "file",
+                "fcerType": "2",
+                "fterm": null,
+                "fcertTime": "2018-03-16",
+                "fbeover": null,
+                "fcerVersion": null,
+                "fstate": "2"
+            },
+            {
+                "fid": "4028813562235e41016223697d200025",
+                "ftitle": "1",
+                "fdataHash": null,
+                "flable": "标签六",
+                "ftime": null,
+                "fsize": "321",
+                "fformat": "file",
+                "fcerType": "1",
+                "fterm": null,
+                "fcertTime": "2018-03-17",
+                "fbeover": null,
+                "fcerVersion": null,
+                "fstate": "2"
+            },
+            {
+                "fid": "40288135621eba4501621ebcf6690006",
+                "ftitle": "1",
+                "fdataHash": null,
+                "flable": "标签一",
+                "ftime": null,
+                "fsize": null,
+                "fformat": "file",
+                "fcerType": "2",
+                "fterm": null,
+                "fcertTime": "2018-03-13",
+                "fbeover": null,
+                "fcerVersion": null,
+                "fstate": "0"
+            },
+            {
+                "fid": "40288135623321b5016233336ae30006",
+                "ftitle": "1",
+                "fdataHash": null,
+                "flable": "1",
+                "ftime": null,
+                "fsize": "1.08MB",
+                "fformat": "png",
+                "fcerType": "1",
+                "fterm": null,
+                "fcertTime": "2018-03-19",
+                "fbeover": null,
+                "fcerVersion": null,
+                "fstate": "0"
+            },
+            {
+                "fid": "40288135623364cf01623c09e3c2000a",
+                "ftitle": "2",
+                "fdataHash": null,
+                "flable": "2",
+                "ftime": null,
+                "fsize": "2.54MB",
+                "fformat": "png",
+                "fcerType": "1",
+                "fterm": null,
+                "fcertTime": "2018-03-29",
+                "fbeover": null,
+                "fcerVersion": null,
+                "fstate": "0"
+            },
+            {
+                "fid": "40288135623364cf01623c0dccaa0011",
+                "ftitle": "3",
+                "fdataHash": null,
+                "flable": "1",
+                "ftime": null,
+                "fsize": "1.08MB",
+                "fformat": "png",
+                "fcerType": "1",
+                "fterm": null,
+                "fcertTime": "2018-03-23",
+                "fbeover": null,
+                "fcerVersion": null,
+                "fstate": "0"
+            }
+        ]
+    },
+    "certMangerDetail": {
+        "fid": "40288135623321b5016233336ae30006",
+        "ftitle": "1",
+        "fcerType": "1",
+        "fterm": "2",
+        "fbeover": "2020-03-19",
+        "fdataHash": "30edb2e712f9c663449d27087decc3513b198f7cc6c61e60fb6542ab2f8a9251",
+        "metas": [
+            {
+                "fid": "40288135623321b5016233336ae70009",
+                "fcertId": "40288135623321b5016233336ae30006",
+                "fseq": "0",
+                "ftype": "0",
+                "fname": "",
+                "fvalue": "",
+                "fcertType": "1",
+                "fsize": null,
+                "foriSize": null
+            }
+        ],
+        "files": [
+            {
+                "fid": "40288135623321b501623333594a0005",
+                "fcertId": "40288135623321b5016233336ae30006",
+                "fseq": "0",
+                "ftype": "1",
+                "fname": "download.png",
+                "fvalue": "/CarLoad/system/20180317170345download.png",
+                "fcertType": "1",
+                "fsize": "1.08MB",
+                "foriSize": "1133568"
+            }
+        ],
+        "fcertTime": "2018-03-19",
+        "fdepNo": null,
+        "fstate": "0"
+    }
+	 
+  
+  
+}
